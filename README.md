@@ -17,7 +17,7 @@ sudo pip install sqlite3-to-mysql
 
 スクリプトの中身を環境にあわせて設定する
 
-- SQLITE_DIR_PATH -> SQLiteファイル群へのディレクトリパス
-- MYSQL_DB_NAME -> MySQLのdatabase name
-- MYSQL_DB_USER -> MySQLのuser
-- MYSQL_DB_PASSWORD -> MySQLのpassword
+- `SQLITE_DIR_PATH` -> SQLiteファイル群へのディレクトリパス
+- `MYSQL_DB_NAME` -> MySQLのdatabase name
+- `MYSQL_DB_USER` -> MySQLのuser
+- `MYSQL_DB_PASSWORD` -> MySQLのpassword
