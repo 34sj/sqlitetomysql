@@ -21,3 +21,9 @@ sudo pip install sqlite3-to-mysql
 - `MYSQL_DB_NAME` -> MySQLのdatabase name
 - `MYSQL_DB_USER` -> MySQLのuser
 - `MYSQL_DB_PASSWORD` -> MySQLのpassword
+
+あとはやるだけ
+
+```shell
+./sqlitetomysql.sh
+```
