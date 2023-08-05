@@ -4,7 +4,7 @@ SQLite3からMySQLに一括で移行するスクリプト 対ISUCON用
 
 # 事前準備
 
-[sqlite3-to-mysql](https://github.com/techouse/sqlite3-to-mysql)ありきのスクリプトなので、こいつを先にインストールしておく
+[sqlite3-to-mysql](https://github.com/techouse/sqlite3-to-mysql) ありきのスクリプトなので、こいつを先にインストールしておく
 
 Debian系の場合
 
