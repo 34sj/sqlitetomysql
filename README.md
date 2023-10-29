@@ -13,7 +13,7 @@ sudo apt-get install pip
 sudo pip install sqlite3-to-mysql
 ```
 
-`packaging`モジュールがないと言われたら追加する。
+`packaging`モジュールがないと言われたら追加する
 
 ```shell
 sudo pip install packaging
